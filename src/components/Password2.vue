@@ -35,12 +35,12 @@
             {
                 name: 'lowercase',
                 status: true,
-                chars: 'abcdefghjkmnopqrstuvwxyz'
+                chars: 'abcdefghijklmnopqrstuvwxyz'
             },
             {
                 name: 'uppercase',
                 status: true,
-                chars: 'ABCDEFGHJKLMNOPQRSTUVWXYZ'
+                chars: 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
             },
             {
                 name: 'numbers',
@@ -50,7 +50,7 @@
             {
                 name: 'specialchars',
                 status: false,
-                chars: '!$%&?+*#-/'
+                chars: '![]{}()%&*$#^<>~@|'
             }
             ]
         }
