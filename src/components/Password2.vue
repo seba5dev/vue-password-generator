@@ -29,7 +29,7 @@
     export default {
         data: function() {
         return {
-            passwordLength: 16,
+            passwordLength: 10,
             refreshPassword: false,
             optiondata: [
             {

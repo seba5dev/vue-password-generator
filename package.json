@@ -6,10 +6,14 @@
     "build": "vite build"
   },
   "dependencies": {
-    "vue": "^3.0.4"
+    "crypto": "^1.0.1",
+    "custom-password-generator": "^1.1.0",
+    "generate-password": "^1.6.1",
+    "vue": "^3.0.4",
+    "vue-cryptojs": "^2.1.5"
   },
   "devDependencies": {
-    "vite": "^1.0.0-rc.13",
-    "@vue/compiler-sfc": "^3.0.4"
+    "@vue/compiler-sfc": "^3.0.4",
+    "vite": "^1.0.0-rc.13"
   }
 }
